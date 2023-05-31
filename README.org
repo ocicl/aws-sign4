@@ -1,0 +1,9 @@
+* aws-sign4
+
+Common Lisp library for Amazon Web Services signing version 4
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/rotatef/aws-sign4.git |
+| commit  | a191cfb                                      |
+| systems | aws-sign4                                    |
+|---------+----------------------------------------------|
